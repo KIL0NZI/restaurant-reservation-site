@@ -7,6 +7,12 @@ const nextConfig = {
     ignoreBuildErrors: true,
   },
   images: {
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: 'cdn.pixabay.com', // Pixabay's image CDN
+      },
+    ],
     unoptimized: true,
   },
 }
