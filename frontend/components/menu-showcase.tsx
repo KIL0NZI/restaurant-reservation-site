@@ -24,7 +24,7 @@ const menuItems: MenuItem[] = [
     description: "Fresh salmon with lemon herb butter, seasonal vegetables, and wild rice",
     price: '3,200',
     category: "mains",
-    image: "https://cdn.pixabay.com/photo/2014/11/05/15/57/new-years-eve-518032_1280.jpg",
+    image: "/public/images/salmon.jpg",
     isPopular: true,
   },
   {
@@ -33,15 +33,15 @@ const menuItems: MenuItem[] = [
     description: "Creamy arborio rice with black truffle, parmesan, and fresh herbs",
     price: '1,950',
     category: "mains",
-    image: "https://cdn.pixabay.com/photo/2022/02/15/02/21/risotto-7014164_1280.jpg",
+    image: "/public/images/risotto.jpg",
   },
   {
     id: 3,
     name: "Beef Tenderloin",
-    description: "8oz prime cut with red wine reduction and roasted fingerling potatoes",
+    description: "Prime cut steak with red wine reduction and roasted fingerling potatoes",
     price: '2,450',
     category: "mains",
-    image: "https://cdn.pixabay.com/photo/2017/07/16/12/07/beef-2509104_1280.jpg",
+    image: "/public/images/steak.jpg",
   },
   {
     id: 4,
@@ -49,7 +49,7 @@ const menuItems: MenuItem[] = [
     description: "Fresh burrata with heirloom tomatoes, basil oil, and aged balsamic",
     price: '1,800',
     category: "appetizers",
-    image: "https://cdn.pixabay.com/photo/2021/11/08/15/57/avocado-toast-6779457_1280.jpg",
+    image: "/public/images/burrata.jpg",
     isNew: true,
   },
   {
@@ -58,7 +58,7 @@ const menuItems: MenuItem[] = [
     description: "Warm chocolate soufflé with vanilla bean ice cream",
     price: '1,400',
     category: "desserts",
-    image: "https://cdn.pixabay.com/photo/2019/08/12/13/45/ice-cream-4401300_1280.jpg",
+    image: "/public/images/chocolate.jpg",
     isPopular: true,
   },
   {
@@ -67,7 +67,7 @@ const menuItems: MenuItem[] = [
     description: "Diver scallops with cauliflower purée and pancetta",
     price: '2,400',
     category: "appetizers",
-    image: "https://cdn.pixabay.com/photo/2017/07/12/06/01/scallop-platter-2495968_1280.jpg",
+    image: "/public/images/scallops.jpg",
   },
 ]
 

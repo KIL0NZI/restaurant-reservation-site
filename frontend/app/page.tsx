@@ -11,10 +11,10 @@ import { MenuShowcase } from "@/components/menu-showcase"
 import { TestimonialCarousel } from "@/components/testimonial-carousel"
 
 const restaurantImages = [
-  "https://cdn.pixabay.com/photo/2016/02/10/13/35/hotel-1191718_1280.jpg",
-  "https://cdn.pixabay.com/photo/2023/01/17/07/59/mossel-dish-7724006_1280.jpg",
-  "https://cdn.pixabay.com/photo/2021/12/17/14/06/meal-6876654_1280.jpg",
-  "https://cdn.pixabay.com/photo/2016/08/21/14/49/cafe-1609795_1280.jpg",
+  "/public/images/restaurant-image-1.jpg",
+  "/public/images/restaurant-image-2.jpg",
+  "/public/images/restaurant-image-3.jpg",
+  "/public/images/restaurant-image-4.jpg",
 ]
 
 export default function RestaurantLanding() {
