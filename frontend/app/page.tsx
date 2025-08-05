@@ -11,10 +11,10 @@ import { MenuShowcase } from "@/components/menu-showcase"
 import { TestimonialCarousel } from "@/components/testimonial-carousel"
 
 const restaurantImages = [
-  "/public/images/restaurant-image-1.jpg",
-  "/public/images/restaurant-image-2.jpg",
-  "/public/images/restaurant-image-3.jpg",
-  "/public/images/restaurant-image-4.jpg",
+  "/restaurant-image-1.jpg",
+  "/restaurant-image-2.jpg",
+  "/restaurant-image-3.jpg",
+  "/restaurant-image-4.jpg",
 ]
 
 export default function RestaurantLanding() {

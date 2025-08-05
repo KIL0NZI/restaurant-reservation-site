@@ -24,7 +24,7 @@ const menuItems: MenuItem[] = [
     description: "Fresh salmon with lemon herb butter, seasonal vegetables, and wild rice",
     price: '3,200',
     category: "mains",
-    image: "/public/images/salmon.jpg",
+    image: "/salmon.jpg",
     isPopular: true,
   },
   {
@@ -33,7 +33,7 @@ const menuItems: MenuItem[] = [
     description: "Creamy arborio rice with black truffle, parmesan, and fresh herbs",
     price: '1,950',
     category: "mains",
-    image: "/public/images/risotto.jpg",
+    image: "/risotto.jpg",
   },
   {
     id: 3,
@@ -41,7 +41,7 @@ const menuItems: MenuItem[] = [
     description: "Prime cut steak with red wine reduction and roasted fingerling potatoes",
     price: '2,450',
     category: "mains",
-    image: "/public/images/steak.jpg",
+    image: "/steak.jpg",
   },
   {
     id: 4,
@@ -49,7 +49,7 @@ const menuItems: MenuItem[] = [
     description: "Fresh burrata with heirloom tomatoes, basil oil, and aged balsamic",
     price: '1,800',
     category: "appetizers",
-    image: "/public/images/burrata.jpg",
+    image: "/burrata caprese.jpg",
     isNew: true,
   },
   {
@@ -58,7 +58,7 @@ const menuItems: MenuItem[] = [
     description: "Warm chocolate soufflé with vanilla bean ice cream",
     price: '1,400',
     category: "desserts",
-    image: "/public/images/chocolate.jpg",
+    image: "/chocolate.jpg",
     isPopular: true,
   },
   {
@@ -67,7 +67,7 @@ const menuItems: MenuItem[] = [
     description: "Diver scallops with cauliflower purée and pancetta",
     price: '2,400',
     category: "appetizers",
-    image: "/public/images/scallops.jpg",
+    image: "/scallops.jpg",
   },
 ]
 

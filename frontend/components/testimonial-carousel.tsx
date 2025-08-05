@@ -22,7 +22,7 @@ const testimonials: Testimonial[] = [
     content:
       "Absolutely incredible experience! The reservation process was seamless, and the food exceeded all expectations. Will definitely be returning.",
     rating: 5,
-    avatar: "/public/images/sarah.jpg",
+    avatar: "/sarah.jpg",
   },
   {
     id: 2,
@@ -40,7 +40,7 @@ const testimonials: Testimonial[] = [
     content:
       "The online reservation system made booking so easy. The staff was attentive and the wine pairing was exceptional.",
     rating: 5,
-    avatar: "/public/images/emily.jpg",
+    avatar: "/emily.jpg",
   },
   {
     id: 4,
@@ -49,7 +49,7 @@ const testimonials: Testimonial[] = [
     content:
       "Outstanding venue for client dinners. Professional service, exquisite food, and perfect atmosphere for business discussions.",
     rating: 5,
-    avatar: "/public/images/david.jpg",
+    avatar: "/david.jpg",
   },
   {
     id: 5,
@@ -58,7 +58,7 @@ const testimonials: Testimonial[] = [
     content:
       "Every dish was a masterpiece. The chef's attention to detail and creativity shines through in every bite. A true culinary gem!",
     rating: 5,
-    avatar: "/public/images/lisa.jpg",
+    avatar: "/lisa.jpg",
   },
 ]
 

@@ -16,9 +16,12 @@ const nextConfig = {
     ],
     unoptimized: true,
   },
-  output: 'export', // Static export for Next.js
+  // output: 'export', // Static export for Next.js
 }
 
 export default {
   output: 'export',
+  images: {
+    unoptimized: true,
+  },
 }
