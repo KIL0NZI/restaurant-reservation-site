@@ -11,10 +11,12 @@ const nextConfig = {
       {
         protocol: 'https',
         hostname: 'cdn.pixabay.com', // Pixabay's image CDN
+        pathname: '**', // Match all paths
       },
     ],
     unoptimized: true,
   },
+  output: 'export', // Static export for Next.js
 }
 
 export default {
